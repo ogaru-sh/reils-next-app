@@ -1,1 +1,1 @@
-# reils-next-app
+# reils-next-app# rails-next-zenn-clone
